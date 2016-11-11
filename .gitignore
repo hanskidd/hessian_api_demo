@@ -6,6 +6,6 @@
 .svn/
 
 .classpath
-.setting/
+.settings/
 target/
 .project
